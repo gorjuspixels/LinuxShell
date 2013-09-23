@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1379966632 source:/home/yasha/Documents/workspace/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<dirent.h>
+
